@@ -1,0 +1,5 @@
+for i in {1..5}
+do
+	echo "Creating file-$i.txt"
+	touch file-$i.txt"
+done
